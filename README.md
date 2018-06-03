@@ -30,7 +30,7 @@ Please refer to [rt-net/RaspberryPiMouse](https://github.com/rt-net/RaspberryPiM
 
 ### 3. Make a workspace.
 
-```
+``` 
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
 catkin_init_worksapce
